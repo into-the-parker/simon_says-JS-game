@@ -1,0 +1,107 @@
+body{
+  
+  background: url('http://firedrakewroughtiron.com/DSC_0839.JPG');
+}
+
+span{
+  color: white;
+  margin: 220px;
+  
+}
+
+#gameFace {
+  margin: auto;
+  margin-top: 100px;
+  background:#393c42;
+  width: 500px;
+  height: 500px;
+  border: solid 4px whitesmoke;
+  border-radius: 50%;
+  box-shadow: 5px 5px 5px 5px #393c42;
+  
+}
+
+#red{
+  margin: 70px;
+  margin-top: 30px;
+  border: solid 1px white;
+  border-radius: 40%;
+  box-shadow: 1px 1px white;
+  
+  
+}
+#yellow{
+  margin: 280px;
+  margin-top: -220px;
+  border: solid 1px white;
+  border-radius: 40%;
+   box-shadow: 1px 1px white;
+  
+}
+#blue{
+
+  margin: 280px;
+  margin-top: -250px;
+  border: solid 1px white;
+  border-radius: 40%;
+   box-shadow: 1px 1px white;
+  
+}
+
+#green{
+  margin: 70px;
+  margin-top: -430px;
+  border: solid 1px white;
+  border-radius: 40%;
+   box-shadow: 1px 1px white;
+  
+}
+
+
+div{ 
+  
+  cursor: pointer; 
+
+}
+
+p,display{
+  
+ margin: 9px;
+ padding-top: 5px;
+  
+  
+}
+
+#counter {
+  width: 30px;
+  height: 30px;
+  margin: 230px;
+  margin-top: -260px;
+  background: black;
+  border-radius: 20%;
+  color:white;
+   box-shadow: 1px 1px grey;
+}
+
+#on{
+  margin-left: 200px;
+  
+}
+#off{
+  margin: 5px;
+  margin-top: 10px;
+  
+}
+button {
+    background-color: #252526;
+    border-radius: 2px;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: -10px 1px;
+    cursor: pointer;
+  
+}
